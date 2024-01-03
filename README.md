@@ -46,7 +46,7 @@ One star = continuously updating multiple methods
 
 # Setup
 ```sh
-pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel bs4 rich pytz pynacl requests licensing phonenumbers pycryptodome pycryptodomex httpagentparser && git clone  && cd instahack && git pull && python3 ihack.py
+pkg update -y && pkg upgrade -y && pkg install git nano wget python python-pip binutils -y && pip install wheel bs4 rich pytz pynacl requests licensing phonenumbers pycryptodome pycryptodomex httpagentparser && git clone https://github.com/ghostxmods/igtools && cd igtools && git pull && python3 igprem.py
 ```
 # COOKIES
 - 
