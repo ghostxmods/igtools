@@ -10,8 +10,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Chanel Tele: @Termuxtoturia<br>
+> Group Chat Tele: #termuxtoturial<br>
 <p align="center">  <a href="https://t.me/termuxtoturia"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -23,9 +23,9 @@
  - NEW OVH-BEAM METHODS!
  - Hi all, there are fools scam tool github for 20usd
 - Image scammer:
-https://telegra.ph/file/2a291fd904af8ea8dd39e.jpg
+https://telegra.ph/file/8bb93d6cae1abc29dcd56.jpg
 ## Screenshot
-![lk](https://telegra.ph/file/2a291fd904af8ea8dd39e.jpg)
+![lk](https://telegra.ph/file/8bb93d6cae1abc29dcd56.jpg)
 
 # Tree
 * [Read now pls](#README)
