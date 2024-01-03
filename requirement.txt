@@ -1,0 +1,11 @@
+wheel
+bs4
+rich
+pytz
+pynacl
+requests
+licensing
+phonenumbers
+pycryptodome
+pycryptodomex
+httpagentparser
